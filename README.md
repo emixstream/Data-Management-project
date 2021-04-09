@@ -1,6 +1,7 @@
 # Data-Management-project
 How Bitcoin shapes the  sentiment on Twitter
 
+Due to the size of the file, the document concerning tweets from November is omitted.
 
 Note per la configurazione
 Prima di poter testare l’applicativo è 
