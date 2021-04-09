@@ -14,7 +14,7 @@ dovrà essere effettuata l’analisi
 Scraping Realtime:
 3. chrome_binary_location: Percorso al file 
 binary di Chrome
-4. chromedriver_path : Pe rc o rs o a i 
+4. chromedriver_path : Percorso ai 
 chromedriver
 Scraping Non Realtime - Dati Storici:
 5. path_to_btc_csv: Percorso alla tabella 
@@ -25,14 +25,14 @@ csv TWEET
 csv TPS
 Nota: i percorsi nel caso in cui le 
 tabelle sono posizionate nella 
-c a r t e l l a P r o d u c e r s o n o g i à 
+cartella Producer sono già
 impostati.
 Istruzioni per la configurazione 
-S i r i p o r t a n o l e i s t r u z i o n i p e r l a 
+Si riportano le istruzioni per la
 configurazione di pycharm.
 1. Una volta aperto il progetto configurare 
 l’interprete e scaricare le librerie
-2. B i s o g n a o r a a g g i u n g e r e l e 
+2 Bisogna aggiungere le 
 configurazioni per l’esecuzione dei file 
 ***Script.py
 3. Dovrebbero risultare quindi quattro 
@@ -43,8 +43,9 @@ configurazioni da poter eseguire:
 Data)
 • RealTimeProducerScript.py
 4. Una volta avviati i servizi di Apache e 
-M o n g o, l ’av v i o d e l l ’a p p l i c a t i vo 
+Mongo, l’avvio dell’applicativo 
 dovrebbe avvenire come segue: 
 1. DataStorageScript
 2. ProducerHD o RealTime
 3. DataProcessScript
+
